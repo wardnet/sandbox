@@ -1,4 +1,4 @@
- defaults:
+defaults:
   timeout_ms: 5000
   degraded_latency_ms: 1000
   failures_to_degraded: 2
